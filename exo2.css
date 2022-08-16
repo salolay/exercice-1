@@ -1,0 +1,25 @@
+body{
+	width: 750px;
+}
+fieldset{
+	background-color:pink;
+}
+
+h3{
+	color: black ;
+	font-family: Caflisch Script, Adobe Poetica, Sanvito, Ex Ponto, Snell Roundhand, Zapf-Chancery, cursive;
+	font-weight:bold;
+	text-align: center;
+}
+
+p{
+	width:400px;
+	padding-left: 305px;
+	text-align: left;
+	vertical-align: top;
+}
+label.left{
+	float: left;
+	margin-left: -305px;
+	font-weight:bold;
+}
